@@ -1,0 +1,115 @@
+			body{
+				background-color:#F1D1B5;}
+			.message{
+				margin-right:auto;
+				margin-left:auto;
+				display:block;
+				margin-top:80px;}
+			.nav{
+				list-style-type:none;
+				margin:0;
+				padding:3px;
+				overflow:hidden;
+				position:fixed;
+				top:0px;
+				left:-10px;}
+			.nav li{
+				float:left;}
+			a.one:link{
+				padding:2px;
+				margin: 0;}
+			a.one:hover{
+				opacity:40%}
+			a.two:link{
+				padding:2px;}
+			a.two:hover{
+				opacity:40%}
+			a.three:link{
+				padding:2px;}
+			a.three:hover{
+				opacity:40%}	
+			a.four:link{
+				padding:2px;}
+			a.four:hover{
+				opacity:40%}
+			a.five:link{
+				padding:2px;}
+			a.five:hover{
+				opacity:40%}
+			.logo{
+				margin-left:auto;
+				margin-right:auto;
+				margin-bottom: -100px;
+				margin-top: -20px;
+				display:block;}
+			.title{
+				margin-left:370px;
+				margin-right:auto;
+				margin-top:-180px;
+				margin-bottom: -240px;}
+			ul img{
+				width:60px;
+				height:60px;}
+			#link {
+				 margin-top:30px;
+				 position:relative;
+				 margin-left:580px;
+				 margin-right:auto;}
+			 #link li{
+				 position:absolute;
+				 list-style:none;
+				 padding:3px;
+				 margin:10;
+				 top:0;}
+			 #link li, #link a{
+				 display:block;
+				 width:38px;
+				 height:38px;}
+			 #fb {
+				 left:0px;
+				 background: url('../images/icons.png')no-repeat -30px -12px;}
+			 #twt {
+				 left:63px;
+				 background: url('../images/icons.png')no-repeat -82px -12px;}		
+			 #ig{
+				 left:129px;
+				 background: url('../images/icons.png')no-repeat -342px -12px;}
+			  #fb:hover {
+				background: url('../images/icons.png')no-repeat -30px -291px;}	
+			 #twt:hover {
+				background: url('../images/icons.png')no-repeat -82px -291px;}
+			 #ig:hover {
+				background: url('../images/icons.png')no-repeat -342px -291px;}
+			table{
+				margin:100px;
+				margin-bottom:0;}
+			.title1{
+				margin-bottom:-40px;}
+			.title2{
+				margin-bottom:-50px;
+				margin-top:-30px;}
+			table img{
+				margin-bottom:-30px;}
+			a{
+				text-decoration:none;
+				color:black;}			
+			p{
+				margin-bottom:-10px;}
+			.title4{
+				margin-top:10px;
+				margin-bottom:10x;}
+			.title6{
+				margin-top:-10px;
+				margin-bottom:-30px;}
+			.title7{
+				margin-bottom:-20px;}
+			table p{
+				font-family:Garamond, serif;
+				font-size:18px;
+				font-weight:bold;}
+		.sources{
+				font-size:10px;
+				margin-top:0px;
+				text-decoration:none;
+				color:black;
+			margin-left:810px;}
